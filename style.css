@@ -74,7 +74,7 @@
             transform: translateX(-50%);
             width: 100px;
             height: 5px;
-            background: linear-gradient(90deg, var(--primary-color), var(--accent-1));
+            background: linear-gradient(to bottom, var(--primary-color), var(--accent-1));
             border-radius: 5px;
         }
 
